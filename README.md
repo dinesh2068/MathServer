@@ -97,7 +97,6 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </html>
 
 views.py
-# Create your views here.
 
 from django.shortcuts import render
 def rectarea(request):
@@ -132,10 +131,10 @@ urlpatterns = [
 '''
 
 ## SERVER SIDE PROCESSING:
-![server](<Screenshot 2023-12-31 174237.png>)
+![Screenshot 2023-12-31 174237](https://github.com/dinesh2068/MathServer/assets/151390189/e667e1fd-4832-4b7b-bb10-ea806f142be8)
 
 ## HOMEPAGE:
-![output](<Screenshot 2023-12-31 173815.png>)
+![Screenshot 2023-12-31 173815](https://github.com/dinesh2068/MathServer/assets/151390189/3ff34c61-fbd2-4951-8aa9-7c49cd2b859b)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
